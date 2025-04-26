@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Couleurs principales -->
+    <color name="colorPrimary">#415A77</color> <!-- Violet foncé -->
+    <color name="colorPrimaryVariant">#1B263B</color> <!-- Violet encore plus foncé -->
+    <color name="colorSecondary">#778DA9</color> <!-- Turquoise -->
+
+    <!-- Couleurs de fond et de texte -->
+    <color name="colorBackground">#E0E1DD</color> <!-- Blanc -->
+    <color name="colorTextPrimary">#0D1B2A</color> <!-- Noir -->
+    <color name="colorButton">#415A77</color> <!-- Même que Primary -->
+    <color name="colorButtonText">#E0E1DD</color> <!-- Blanc -->
+
+    <!-- Couleurs spéciales -->
+    <color name="colorError">#B00020</color> <!-- Rouge pour erreurs -->
 </resources>
